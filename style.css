@@ -1,0 +1,12 @@
+.main{
+    font-size: 90px;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 7px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
