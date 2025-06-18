@@ -5,6 +5,7 @@ const rsvp = document.getElementById("rsvp");
 let guestList = [];
 
 form.addEventListener("submit", function(event) {
+  
   event.preventDefault();
 
   const name = input.value.trim();
