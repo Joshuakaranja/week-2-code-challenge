@@ -1,17 +1,17 @@
 # week-2-code-challenge
 # Event Guest List Manager  
-#### A simple event guest management application, June 2025  
+#### A simple event guest management site, June 2025  
 #### By **Joshua Karanja**
 
 ## Description
-This is a basic web application that allows users to manage an event guest list.  
+This is a basic website that allows users to manage an event guest list.  
 Users can add guests, remove them, and toggle their RSVP status.  
 The app uses simple DOM manipulation and JavaScript to provide dynamic functionality  
 without the need for page refreshes.
 
 ## Setup/Installation Requirements
 * Clone the repository using the link below or open it directly in your browser:  
-  [https://github.com/Joshuakaranja/code-challenge-1](https://github.com/Joshuakaranja/code-challenge-1)
+  [https://github.com/Joshuakaranja/code-challenge-1](https://github.com/Joshuakaranja/code-challenge-2)
 * Open the project folder.
 * Run `index.html` in your preferred browser.
 * No additional dependencies or installations required.
